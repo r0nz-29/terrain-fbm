@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/terrain-fbm/static/css/main.f76abe0c.chunk.css",
+    "main.js": "/terrain-fbm/static/js/main.7afd8a4e.chunk.js",
+    "main.js.map": "/terrain-fbm/static/js/main.7afd8a4e.chunk.js.map",
+    "runtime-main.js": "/terrain-fbm/static/js/runtime-main.64fd1352.js",
+    "runtime-main.js.map": "/terrain-fbm/static/js/runtime-main.64fd1352.js.map",
+    "static/js/2.128ef489.chunk.js": "/terrain-fbm/static/js/2.128ef489.chunk.js",
+    "static/js/2.128ef489.chunk.js.map": "/terrain-fbm/static/js/2.128ef489.chunk.js.map",
+    "index.html": "/terrain-fbm/index.html",
+    "static/css/main.f76abe0c.chunk.css.map": "/terrain-fbm/static/css/main.f76abe0c.chunk.css.map",
+    "static/js/2.128ef489.chunk.js.LICENSE.txt": "/terrain-fbm/static/js/2.128ef489.chunk.js.LICENSE.txt",
+    "static/media/map1_color.d9782aab.jpg": "/terrain-fbm/static/media/map1_color.d9782aab.jpg",
+    "static/media/real3.d7b42791.png": "/terrain-fbm/static/media/real3.d7b42791.png",
+    "static/media/water1.babf6e90.jpg": "/terrain-fbm/static/media/water1.babf6e90.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64fd1352.js",
+    "static/js/2.128ef489.chunk.js",
+    "static/css/main.f76abe0c.chunk.css",
+    "static/js/main.7afd8a4e.chunk.js"
+  ]
+}
